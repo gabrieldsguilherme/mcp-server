@@ -1,1 +1,1 @@
-# spring-ai-mcp
+# mcp-server
